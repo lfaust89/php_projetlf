@@ -1,9 +1,19 @@
-body{
+body {
     color: blue;
 }
-#nav-bar{
+
+/*  selecteur pour image user */
+
+.image-users {
+    max-width: 64px;
+    height: 32px;
+    size: auto;
+}
+
+#nav-bar {
     color: orange;
 }
-.green{
+
+.green {
     color: green;
 }
